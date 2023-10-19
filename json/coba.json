@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "Rah'vi Akasapria",
+    "umur": 21,
+    "nim": "1903040097",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing 1": "Achmad Fuazan"
+    }
+  },
+  {
+    "nama": "Rah'vi Akasapria",
+    "umur": 21,
+    "nim": "1903040097",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing 1": "Achmad Fuazan"
+    }
+  }
+]
